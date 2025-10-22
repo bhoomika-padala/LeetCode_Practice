@@ -2,8 +2,13 @@
 
 ## Arrays
 - [Two Sum](./Arrays/Day03_TwoSum)
+- [Median of Two Sorted Arrays](./Arrays/Day04_MedianofTwoSortedArrays)
 - [Remove Element](./Arrays/Day05_RemoveElement)
-- [Median of Two Sorted Arrays](./Arrays/Day04_MedianOfTwoSortedArrays)
+- [Search Insert Position](./Arrays/Day06_SearchInsertPosition)
+- [Move Zeroes](./Arrays/Day07_MoveZeroes)
+- [Merge Sorted Array](./Arrays/Day08_MergeSortedArray)
+- [Squares of a Sorted Array](./Arrays/Day09_SquaresofaSortedArray)
+- [Remove Duplicates From Sorted Array](./Arrays/Day10_RemoveDuplicatesFromSortedArray)
 
 ## Numbers
 - [Reverse Integer](./Numbers/Day01_ReverseInteger)
