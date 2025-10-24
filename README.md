@@ -9,6 +9,7 @@
 - [Merge Sorted Array](./Arrays/Day08_MergeSortedArray)
 - [Squares of a Sorted Array](./Arrays/Day09_SquaresofaSortedArray)
 - [Remove Duplicates From Sorted Array](./Arrays/Day10_RemoveDuplicatesFromSortedArray)
+- [Single Number](./Arrays/Day11_SingleNumber)
 
 ## Numbers
 - [Reverse Integer](./Numbers/Day01_ReverseInteger)
